@@ -55,7 +55,7 @@ Deep learning based image classification system using MobileNetV2 and transfer l
 ### 🏠 Airbnb Website Clone
 Responsive frontend clone built using HTML, CSS, and JavaScript.
 
----
+--- 
 
 ## 📈 GitHub Stats
 
