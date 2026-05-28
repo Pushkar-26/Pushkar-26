@@ -23,7 +23,9 @@
 ---
 
 ## 🛠 Tech Stack
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,tensorflow,vscode" />
+</p>
 ### Languages
 - C++
 - Python
