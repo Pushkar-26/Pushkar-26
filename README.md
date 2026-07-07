@@ -99,17 +99,6 @@ Content-based movie recommendation system using NLP, TF-IDF vectorization, and c
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Pushkar-26&show_icons=true&theme=tokyonight"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pushkar-26&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 🏆 Achievements
 
